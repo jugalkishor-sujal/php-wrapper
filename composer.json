@@ -1,5 +1,5 @@
 {
-  "name": "smoice/smoice",
+  "name": "demo/demo",
   "description": "PHP wrapper for SMOICE Billing API",
   "homepage": "https://github.com/SMOICE/php-wrapper",
   "license": "MIT",
@@ -7,6 +7,6 @@
     "php": ">=5.5.9"
   },
   "autoload": {
-    "psr-0": { "smoice": "" }
+    "psr-0": { "demo": "" }
   }
 }
