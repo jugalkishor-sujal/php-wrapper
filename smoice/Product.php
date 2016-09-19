@@ -1,6 +1,6 @@
 <?php
 
-namespace smoice;
+namespace demo;
 
 class Product extends Base
 {
